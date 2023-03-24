@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java" />
+	<classpathentry kind="src" path="/LearnerAcademy" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con"
+		path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con"
+		path="org.eclipse.jst.j2ee.internal.web.container" />
+	<classpathentry kind="con"
+		path="org.eclipse.jst.j2ee.internal.module.container" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/apache-tomcat-9.0.71-windows-x64.zip" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/txw2-2.3.1.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/stax-ex-1.8.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/jstl-1.2 .jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/jboss-logging-3.4.0.Final.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/jaxb-runtime-2.3.1.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/jaxb-api-2.3.1.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/javax.persistence-api-2.2 (1).jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/javax.activation-api-1.2.0.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/jandex-2.4.2.Final-redhat-00001-javadoc.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/istack-commons-runtime-3.0.7.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/hibernate-core-5.6.14.Final.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/hibernate-commons-annotations-5.1.2.Final.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/FastInfoset-1.2.15.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/classmate-1.5.1-javadoc.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/byte-buddy-1.12.18.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/antlr-2.7.7.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Admin/Downloads/JarFiles/mysql-connector-java-5.1.46.jar" />
+	<classpathentry kind="output" path="build/classes" />
+</classpath>
